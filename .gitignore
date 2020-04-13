@@ -1,2 +1,5 @@
 target/
 .idea/
+*pid*
+*.iml
+/mavenSkeleton.iml
